@@ -16,4 +16,8 @@ public class HelloServlet extends HttpServlet {
         System.out.println("这么牛逼的插件");
         System.out.println("测试修改代码git");
     }
+
+    private void testAdd(){
+        System.out.println("测试git修改代码");
+    }
 }
